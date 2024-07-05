@@ -5,8 +5,5 @@ TO DO LIST
 4.Read a novel
 5.Travel the world
 6.Learn to cook new stuff
-<<<<<<< HEAD
-=======
 7.Go to jungle
 8.Play clash royale
->>>>>>> tester
