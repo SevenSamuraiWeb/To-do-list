@@ -1,4 +1,3 @@
-```markdown
 # To-Do List Website
 
 ## Overview
@@ -72,5 +71,4 @@ This project is licensed under the GNU General Public License v3.0. See the [LIC
 
 ## Acknowledgements
 - Inspiration for this project came from various online tutorials and personal projects.
-
 ```
